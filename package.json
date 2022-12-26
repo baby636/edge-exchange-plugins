@@ -56,7 +56,7 @@
     "@babel/runtime": "^7.0.0",
     "assert": "^2.0.0",
     "babel-eslint": "^10.1.0",
-    "babel-loader": "^8.2.2",
+    "babel-loader": "^8.2.4",
     "buffer": "^6.0.3",
     "edge-core-js": "^0.17.29",
     "eslint": "^7.14.0",
