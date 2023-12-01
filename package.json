@@ -72,7 +72,7 @@
     "lint-staged": "^10.5.3",
     "prettier": "^2.2.0",
     "process": "^0.11.10",
-    "rimraf": "^2.6.2",
+    "rimraf": "^4.0.0",
     "stream-browserify": "^3.0.0",
     "sucrase": "^3.9.5",
     "webpack": "^5.28.0",
