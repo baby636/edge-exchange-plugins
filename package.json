@@ -59,7 +59,7 @@
     "babel-loader": "^8.2.2",
     "buffer": "^6.0.3",
     "edge-core-js": "^0.17.29",
-    "eslint": "^7.14.0",
+    "eslint": "^9.0.0",
     "eslint-config-standard-kit": "0.15.1",
     "eslint-plugin-flowtype": "^5.2.0",
     "eslint-plugin-import": "^2.22.1",
